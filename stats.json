@@ -1,0 +1,20 @@
+{
+  "leetcode": {
+    "data": {
+      "All": 143,
+      "Easy": 73,
+      "Medium": 66,
+      "Hard": 4
+    },
+    "updated_at": "2026-11-23 14:16",
+    "fetch_failed": false
+  },
+  "codeforces": {
+    "data": {
+      "rating": 1096,
+      "max_rating": 1107
+    },
+    "updated_at": "2026-11-23 14:16",
+    "fetch_failed": false
+  }
+}
