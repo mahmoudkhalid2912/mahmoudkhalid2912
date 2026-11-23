@@ -51,5 +51,3 @@ Scheduled to refresh daily from public profiles.
 - **LinkedIn:** [Mahmoud Khalid](https://linkedin.com/in/mahmoud-khalid-7b6b39339)
 - **LeetCode:** [mahmoud_Khalid29](https://leetcode.com/u/mahmoud_Khalid29/)
 - **Codeforces:** [mahmoud11A](https://codeforces.com/profile/mahmoud11A)
-
-<!-- REVIEW DRAFT: Content approval pending. Daily updates selected. No automation or repository has been published. -->
